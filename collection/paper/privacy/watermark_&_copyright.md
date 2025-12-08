@@ -1,4 +1,6 @@
 # C9. Watermark & Copyright
+- [2025/12] **[MarkTune: Improving the Quality-Detectability Trade-off in Open-Weight LLM Watermarking](https://arxiv.org/abs/2512.04044)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/12] **[SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting](https://arxiv.org/abs/2512.03620)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[PRO: Enabling Precise and Robust Text Watermark for Open-Source LLM](https://arxiv.org/abs/2510.23891)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Cross-Lingual Summarization as a Black-Box Watermark Removal Attack](https://arxiv.org/abs/2510.24789)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[SLIP-SEC: Formalizing Secure Protocols for Model IP Protection](https://arxiv.org/abs/2510.24999)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -20,7 +22,7 @@
 - [2025/10] **[DMark: Order-Agnostic Watermarking for Diffusion Large Language Models](https://arxiv.org/abs/2510.02902)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Fast, Secure, and High-Capacity Image Watermarking with Autoencoded Text Vectors](https://arxiv.org/abs/2510.00799)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/10] **[ZK-WAGON: Imperceptible Watermark for Image Generation Models using ZK-SNARKs](https://arxiv.org/abs/2510.01967)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
-- [2025/09] **[Watermarking Diffusion Language Models ](https://arxiv.org/abs/2509.24368)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/09] **[Watermarking Diffusion Language Models](https://arxiv.org/abs/2509.24368)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[LLM Watermark Evasion via Bias Inversion](https://arxiv.org/abs/2509.23019)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[An Ensemble Framework for Unbiased Language Model Watermarking](https://arxiv.org/abs/2509.24043)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Analyzing and Evaluating Unbiased Language Model Watermark](https://arxiv.org/abs/2509.24048)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

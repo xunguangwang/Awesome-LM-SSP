@@ -1,4 +1,5 @@
 # B3. Poison & Backdoor
+- [2025/12] **[Bias Injection Attacks on RAG Databases and Sanitization Defenses](https://arxiv.org/abs/2512.00804)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/11] **[AutoBackdoor: Automating Backdoor Attacks via LLM Agents](https://arxiv.org/abs/2511.16709)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Secure Retrieval-Augmented Generation against Poisoning Attacks](https://arxiv.org/abs/2510.25025)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/10] **[PoTS: Proof-of-Training-Steps for Backdoor Detection in Large Language Models](https://arxiv.org/abs/2510.15106)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
@@ -10,9 +11,9 @@
 - [2025/10] **[Rethinking Reasoning: A Survey on Reasoning-based Backdoors in LLMs](https://arxiv.org/abs/2510.07697)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2025/10] **[P2P: A Poison-to-Poison Remedy for Reliable Backdoor Defense in LLMs](https://arxiv.org/abs/2510.04503)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://arxiv.org/abs/2510.00586)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
-- [2025/09] **[Your RAG is Unfair: Exposing Fairness Vulnerabilities in Retrieval-Augmented Generation via Backdoor Attacks ](https://arxiv.org/abs/2509.22486)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/09] **[Your RAG is Unfair: Exposing Fairness Vulnerabilities in Retrieval-Augmented Generation via Backdoor Attacks](https://arxiv.org/abs/2509.22486)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/09] **[Backdoor Attribution: Elucidating and Controlling Backdoor in Language Models](https://arxiv.org/abs/2509.21761)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2025/09] **[Who Taught the Lie? Responsibility Attribution for Poisoned Knowledge in Retrieval-Augmented Generation ](https://arxiv.org/abs/2509.13772)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/09] **[Who Taught the Lie? Responsibility Attribution for Poisoned Knowledge in Retrieval-Augmented Generation](https://arxiv.org/abs/2509.13772)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/09] **[ImportSnare: Directed "Code Manual" Hijacking in Retrieval-Augmented Code Generation](https://arxiv.org/abs/2509.07941)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800) ![CCS'25](https://img.shields.io/badge/CCS'25-f1b800)
 - [2025/08] **[Detecting Stealthy Data Poisoning Attacks in AI Code Generators](https://arxiv.org/abs/2508.21636)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/08] **[UniC-RAG: Universal Knowledge Corruption Attacks to Retrieval-Augmented Generation](https://arxiv.org/abs/2508.18652)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

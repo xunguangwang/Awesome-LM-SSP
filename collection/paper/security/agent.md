@@ -1,4 +1,6 @@
 # B2. Agent
+- [2025/12] **["MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale](https://arxiv.org/abs/2512.03775)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/12] **[Trusted AI Agents in the Cloud](https://arxiv.org/abs/2512.05951)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/11] **[Hiding in the AI Traffic: Abusing MCP for LLM-Powered Agentic Red Teaming](https://arxiv.org/abs/2511.15998)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/11] **[Towards Automating Data Access Permissions in AI Agents](https://arxiv.org/abs/2511.17959)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![S&P'26](https://img.shields.io/badge/S&P'26-f1b800)
 - [2025/10] **[A Vision for Access Control in LLM-based Agent Systems](https://arxiv.org/abs/2510.11108)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

@@ -1,4 +1,7 @@
 # C3. Membership Inference Attacks
+- [2025/12] **[Watermarks for Embeddings-as-a-Service Large Language Models](https://arxiv.org/abs/2512.03079)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/12] **[Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks](https://arxiv.org/abs/2512.03100)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/12] **[Lost in Modality: Evaluating the Effectiveness of Text-Based Membership Inference Attacks on Large Multimodal Models](https://arxiv.org/abs/2512.03121)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/11] **[GRPO Privacy Is at Risk: A Membership Inference Attack Against Reinforcement Learning With Verifiable Rewards](https://arxiv.org/abs/2511.14045)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Fast-MIA: Efficient and Scalable Membership Inference for LLMs](https://arxiv.org/abs/2510.23074)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Noise Aggregation Analysis Driven by Small-Noise Injection: Efficient Membership Inference for Diffusion Models](https://arxiv.org/abs/2510.21783)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
